@@ -20,11 +20,11 @@
 
 **Tela de Login.**
 
-Criação de uma tela de login com tema dark em HTML e CSS.  
+Criação de uma tela de login responsiva com tema dark em HTML e CSS.  
 
 # 🚀 Proposta <a name="id02"></a>
 
-Uma tela de login com tema dark para facilitar pessoas que passam muitas horas utilizando o computador.
+Uma tela de login responsiva com tema dark para facilitar pessoas que passam muitas horas utilizando o computador.
 
 Este projeto foi projeto proposto pelo [canal do Markzuel](https://www.youtube.com/c/Markzuel) no YouTube. 
 
