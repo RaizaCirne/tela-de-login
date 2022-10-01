@@ -42,7 +42,8 @@ Data final: 01/10/2022
 
 Os usuários devem ser capazes de: 
 
-- Projeto em construção...
+- Fazer o preenchimento da tela de login
+- Visualizar animação da imagem na tela 
 
 <br />
 
@@ -62,21 +63,19 @@ Os usuários devem ser capazes de:
 
 ## :trophy: Construção do site <a name="id03.1"></a>
 
-- Projeto em construção...
+1. Criação da pasta assets 
+2. Criação da pasta css com arquivo style.css
+3. Criação da pasta img com imagem em animação
 
-**Construção:**
-
-1. Projeto em construção...
-
-Dentro da pasta `/design` terá os designs do projeto. 
+Dentro da pasta `/design` está o design do projeto. 
 
 ## :trophy: Aprendizado <a name="id03.2"></a>
 
-- Projeto em construção...
+- Construção de formulário
 
 ## :trophy: Prosseguimento <a name="id03.3"></a>
 
-- Projeto em construção...
+- Realização de outros projetos em HTML e CSS para treinar organização de divs
 
 <br />
 
@@ -142,7 +141,7 @@ Abrir pasta no editor de código.
 
 <br />
 
-Em construção...
+Agradeço ao canal Markzuel por disponibilizar a criação de um projeto focado na aprendizagem de desenvolvedores.
 
 <br />
 
