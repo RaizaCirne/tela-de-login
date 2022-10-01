@@ -85,11 +85,11 @@ Dentro da pasta `/design` está o design do projeto.
 
 ## :desktop_computer: Desktop design
 
-![Design preview desktop](#)
+![Design preview desktop](./design/tela-login-desktop.png)
 
 ## :iphone: Mobile design
 
-![Design preview mobile](#)
+![Design preview mobile](./design/tela-login-mobile.png)
 
 <br />
 
@@ -97,7 +97,7 @@ Dentro da pasta `/design` está o design do projeto.
 
 <br />
 
-- Clique no link para acessar a página: 
+- Clique no link para acessar a página: https://lively-kangaroo-a1eaa7.netlify.app/
 
 <br />
 
@@ -149,7 +149,7 @@ Agradeço ao canal Markzuel por disponibilizar a criação de um projeto focado 
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz](#)
+- Personal Page - [Raíza Cirne Braz](https://lively-kangaroo-a1eaa7.netlify.app/)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
